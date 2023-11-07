@@ -9,7 +9,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/Saundq/game/server"
+	"github.com/Saundq/game/http/server"
 )
 
 type Config struct {
