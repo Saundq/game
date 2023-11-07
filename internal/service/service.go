@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Saundq/game/pkg/life"
+	"github.com/Saundq/gamee/pkg/life"
 )
 
 // для хранения состояния

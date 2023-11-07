@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/Saundq/game/internal/service"
+	"github.com/Saundq/gamee/internal/service"
 )
 
 // создадим новый тип для добавления middleware к обработчикам
