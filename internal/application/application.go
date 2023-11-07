@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/Saundq/gamee/http/server"
+	"github.com/Saundq/game/http/server"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

@@ -4,7 +4,7 @@ import (
 	"context"
 	"os"
 
-	"github.com/Saundq/gamee/internal/application"
+	"github.com/Saundq/game/internal/application"
 )
 
 func main() {
