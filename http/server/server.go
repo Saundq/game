@@ -8,8 +8,8 @@ import (
 
 	"go.uber.org/zap"
 
+	"github.com/Saundq/game/http/server/handler"
 	"github.com/Saundq/game/internal/service"
-	"github.com/Saundq/game/server/handler"
 )
 
 // маршрутизация
